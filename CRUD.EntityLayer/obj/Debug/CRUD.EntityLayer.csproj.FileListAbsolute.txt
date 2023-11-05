@@ -1,0 +1,6 @@
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

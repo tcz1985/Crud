@@ -1,0 +1,11 @@
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CopyComplete
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb

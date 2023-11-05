@@ -1,0 +1,9 @@
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CopyComplete
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Menu Crud\Crud\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb
