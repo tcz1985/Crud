@@ -7,8 +7,7 @@
 
             <asp:Button runat="server" OnClick="Nuevo_Click" CssClass="btn btn-sm btn-success" Text="Nuevo" />
         </div>
-
-    </div>
+      </div>
 
      <div class="row">
         <div class="col-12">

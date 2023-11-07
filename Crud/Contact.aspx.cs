@@ -24,9 +24,9 @@ namespace Crud
         
             if(!Page.IsPostBack)
             {
-                if (Request.QueryString["IdEmpleado"] != null)
+                if (Request.QueryString["idEmpleado"] != null)
                 {
-                    idEmpleado = Convert.ToInt32(Request.QueryString["IdEmpleado"].ToString());
+                    idEmpleado = Convert.ToInt32(Request.QueryString["idEmpleado"].ToString());
 
                     if(idEmpleado != 0)
                     {
@@ -35,9 +35,10 @@ namespace Crud
 
                         Empleado empleado = empleadoBL.Obtener(idEmpleado);
                         txtNombres.Text = empleado.Nombres;
+                        txtApellidos.Text = empleado.Apellidos;
                         CargarDepartamentos(empleado.Departamento.IdDepartamento.ToString()); 
                         txtSueldo.Text = empleado.Sueldo.ToString();
-                        txtFechaContrato.Text = Convert.ToDateTime(empleado.FechaContrato, new CultureInfo("en-PE")).ToString("yyyy-mm-dd");
+                        txtFechaContrato.Text = Convert.ToDateTime(empleado.FechaContrato, new CultureInfo("es-PE")).ToString("yyyy-mm-dd");
                     }
                     else
                     {
@@ -64,13 +65,13 @@ namespace Crud
             ddlDepartamento.DataSource = lista;
             ddlDepartamento.DataBind();
 
-            if(idDepartamento != "")
+            if(idDepartamento !="")
 
                 ddlDepartamento.SelectedValue = idDepartamento;
 
         }
 
-    protected void btnSubmit_Click(object sender, EventArgs e)
+        protected void btnSubmit_Click(object sender, EventArgs e)
         {
             Empleado entidad = new Empleado()
             {
@@ -78,7 +79,7 @@ namespace Crud
                 Nombres = txtNombres.Text,
                 Apellidos = txtApellidos.Text,  
                 Departamento = new Departamento() { IdDepartamento = Convert.ToInt32(ddlDepartamento.SelectedValue) },
-                Sueldo = Convert.ToDecimal(txtSueldo.Text, new CultureInfo("en-PE")),
+                Sueldo = Convert.ToDecimal(txtSueldo.Text, new CultureInfo("es-PE")),
                 FechaContrato = txtFechaContrato.Text,
             };
 
